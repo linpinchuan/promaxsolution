@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /posts/_template.html
-
-Sitemap: https://www.yourdomain.com/sitemap.xml
