@@ -10,7 +10,7 @@
     // RECOMMENDED: paste your Google Apps Script Web App URL here to save every
     // submission as a new row in a Google Sheet (open it anytime, or File > Download > Excel).
     // See README.md "Lead form -> Excel / Google Sheet" for the 5-minute setup.
-    sheetEndpoint: "",
+    sheetEndpoint: "https://script.google.com/macros/s/AKfycbxIRdvm95EaL66JRlaoL_i6fTa0-qIcK0mYqPOXNzFAE3gg8UoZoPr5FHlC_9efEAU9/exec",
     // Alternative: a form service URL (Formspree, Web3Forms, Getform, etc.), used only
     // if sheetEndpoint is empty. Example: "https://formspree.io/f/abcdwxyz"
     formEndpoint: "",
